@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kristaps006/plnd_test.git/static/css/main.fe563c21.chunk.css",
+    "main.js": "/Kristaps006/plnd_test.git/static/js/main.6019f718.chunk.js",
+    "main.js.map": "/Kristaps006/plnd_test.git/static/js/main.6019f718.chunk.js.map",
+    "runtime-main.js": "/Kristaps006/plnd_test.git/static/js/runtime-main.44522dc4.js",
+    "runtime-main.js.map": "/Kristaps006/plnd_test.git/static/js/runtime-main.44522dc4.js.map",
+    "static/js/2.456e1497.chunk.js": "/Kristaps006/plnd_test.git/static/js/2.456e1497.chunk.js",
+    "static/js/2.456e1497.chunk.js.map": "/Kristaps006/plnd_test.git/static/js/2.456e1497.chunk.js.map",
+    "static/js/3.9dcd84f0.chunk.js": "/Kristaps006/plnd_test.git/static/js/3.9dcd84f0.chunk.js",
+    "static/js/3.9dcd84f0.chunk.js.map": "/Kristaps006/plnd_test.git/static/js/3.9dcd84f0.chunk.js.map",
+    "index.html": "/Kristaps006/plnd_test.git/index.html",
+    "static/css/main.fe563c21.chunk.css.map": "/Kristaps006/plnd_test.git/static/css/main.fe563c21.chunk.css.map",
+    "static/js/2.456e1497.chunk.js.LICENSE.txt": "/Kristaps006/plnd_test.git/static/js/2.456e1497.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44522dc4.js",
+    "static/js/2.456e1497.chunk.js",
+    "static/css/main.fe563c21.chunk.css",
+    "static/js/main.6019f718.chunk.js"
+  ]
+}
