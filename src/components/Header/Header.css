@@ -1,0 +1,13 @@
+.header_box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header_text_1,
+.header_text_2 {
+  width: 30%;
+  background-image: url("../img/image.png");
+  width: 200px;
+  height: 5rem;
+  background-repeat: no-repeat;
+}

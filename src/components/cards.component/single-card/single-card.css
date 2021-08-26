@@ -1,0 +1,23 @@
+.card_box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 350px;
+  border: 2px solid #199bd7;
+  border-radius: 6px;
+  padding: 20px;
+  cursor: pointer;
+  transition: transform 0.25 ease-out;
+  background-color: #dbdedc73;
+}
+
+.card_box:hover {
+  transform: scale(1.04);
+  background-color: #199bd7;
+  border: 2px solid#3d4b4c;
+}
+
+.img {
+  max-width: 200px;
+  border-radius: 6px;
+}

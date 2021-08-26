@@ -1,0 +1,27 @@
+.paginate_box {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.paginate_text {
+  font-size: 18px;
+  color: black;
+  font-weight: 600;
+  margin-right: 1rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.btn_style {
+  font-size: 14px;
+  padding: 1rem;
+  margin-right: 1rem;
+  background-color: #199bd7;
+  border-radius: 2px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn_style:active {
+  background-color: #e5ecf0;
+}
